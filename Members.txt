@@ -1,8 +1,13 @@
-LIST OF MEMBERS FOR TEAM X
+LIST OF MEMBERS FOR TEAM 25
  
 MEMBER 1 RIYADH EL-HAKIM ASHIBLIE
  
 MEMBER 2 CHIA WENG TEOH
+Brief introduction
+ 
+Role in project: Team Leader
+ 
+Preferred branch of engineering:Mechanical Engineering
  
 MEMBER 3 MOHAMED NASSAR NAFEES
  
