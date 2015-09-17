@@ -2,15 +2,12 @@ LIST OF MEMBERS FOR TEAM X
  
 MEMBER 1 RIYADH EL-HAKIM ASHIBLIE
  
-<<<<<<< HEAD
 Brief introduction
  
 Role in project: assignment uploader
  
 Preferred branch of engineering: mechanical
  
-=======
->>>>>>> origin/RiyadhAshiblie
 MEMBER 2 CHIA WENG TEOH
  
 MEMBER 3 MOHAMED NASSAR NAFEES
