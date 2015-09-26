@@ -13,3 +13,9 @@ MEMBER 2 CHIA WENG TEOH
 MEMBER 3 MOHAMED NASSAR NAFEES
  
 MEMBER 4 VISVAMBA NATHAN
+
+Brief introduction
+ 
+Role in project: Troubleshooter 
+ 
+Preferred branch of engineering: Mechanical Engineering 
