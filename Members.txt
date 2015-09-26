@@ -10,10 +10,11 @@ Role in project: Team Leader
 Preferred branch of engineering:Mechanical Engineering
  
 MEMBER 3 MOHAMED NASSAR NAFEES
- 
-MEMBER 4 VISVAMBA NATHAN
+/. new line
 Brief introduction
+ 
+Role in project: coding helper 
 
-Role in project: Troubleshooter
+Preferred branch of engineering: Mechanical
 
-Preferred branch of engineering: Mechanical Engineering
+MEMBER 4 VISVAMBA NATHAN
